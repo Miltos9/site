@@ -13,6 +13,7 @@ slides:
   - logo-robot
   - logo-graphics
   - smalltalk
+  - Strongtalk-system
   - pygmalion
   - bbc-micro
   - kidsim
@@ -25,4 +26,5 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
+  - visual-logic
 ---
