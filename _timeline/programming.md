@@ -19,7 +19,7 @@ events:
   - hypercard-layout
   - max-language
   - mit-scratch
-  - strongtalk
+  - Strongtalk-system
   - visual-basic-form-designer
   - squeakos
   - eclipse-ide
