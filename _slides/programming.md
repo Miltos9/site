@@ -13,7 +13,9 @@ slides:
   - logo-robot
   - logo-graphics
   - smalltalk
+  - Strongtalk-system
   - pygmalion
+  - visual-logic
   - bbc-micro
   - kidsim
   - hypercard-layout
