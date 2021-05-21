@@ -12,5 +12,5 @@ tags:
   - Xerox Alto
 ---
 
-{% include extras/cs-goldberg.md %}
+{% include extras/bio-goldberg.md %}
 
