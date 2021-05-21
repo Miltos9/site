@@ -1,8 +1,8 @@
 ---
 author: Miltos9
-title: "Successful Failure of Smalltalk"
+title: "Smalltalk"
 image_url: /images/Strongtalk-system.png
-caption: "Έρευνα πάνω στην πολυσυζητημένη SmallTalk. Εμπορική αποτυχία αλλά παράλληλα έμπνευση για πολλές μελοντικές δημιουργίες."
+caption: "Έρευνα πάνω στην πολυσυζητημένη SmallTalk. Έμπνευση για πολλές μελοντικές δημιουργίες-Αφάνεια στο πέρασμα του χρόνου."
 categories:
    - Μελέτη Περίπτωσης
 tags:
