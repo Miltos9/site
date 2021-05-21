@@ -19,9 +19,11 @@ events:
   - hypercard-layout
   - max-language
   - mit-scratch
+  - strongtalk
   - visual-basic-form-designer
   - squeakos
   - eclipse-ide
   - processing-ide 
   - learntomod
+  - visual-logic
 ---
